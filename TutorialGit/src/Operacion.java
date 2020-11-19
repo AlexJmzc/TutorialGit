@@ -11,7 +11,13 @@
 public class Operacion {
     
     
+
     public void suma(){
+        
+    }
+
+    public void Resta(){
+
         
     }
 }
