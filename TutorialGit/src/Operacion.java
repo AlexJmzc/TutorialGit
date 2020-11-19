@@ -10,4 +10,8 @@
  */
 public class Operacion {
     
+    
+    public void Resta(){
+        
+    }
 }
